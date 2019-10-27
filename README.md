@@ -9,6 +9,7 @@ We used machine learning algorithm to train a model and use coreMl to convert it
 We achieved developed an Ios app called Hacktober which can use control the Ar dancer to dance when clicking the screen and choose a position for it.
 
 
+For demo: please refer to the video called "TmobileHackDancerIosApp.MP4"
 
 
 ### Reference:
